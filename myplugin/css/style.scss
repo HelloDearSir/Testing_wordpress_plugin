@@ -1,0 +1,23 @@
+$primary-color: yellow; 
+$primary-background :blue; 
+$font-family: Helvetica, sans-serif;
+h1.site-title {
+    background-color: $primary-background;
+    color: $primary-color; 
+    font-family: $font-family;
+}
+
+ul {
+    li.menu-item-22 {
+        order: 1; 
+    }
+    li.menu-item-23 {
+        order: 4;
+    }
+    li.menu-item-24 { 
+        order: 2; 
+    }
+    li.menu-item-25 {
+        order: 3;
+    }
+}
